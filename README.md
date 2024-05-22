@@ -30,6 +30,7 @@ The shared ORM library defines the database models and handles the database conn
    git clone https://github.com/pankajwinaim/shared-orm-library.git
    cd shared-orm-library
    ```
+# Create the database my-account and tables users
 
 2. **Install dependencies:**
    ```bash
